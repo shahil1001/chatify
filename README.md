@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#output
 
-A few resources to get you started if this is your first Flutter project:
+![Homepage](https://user-images.githubusercontent.com/58880992/175486766-b4913ebb-3d75-4d56-8cff-78da3429e027.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Serach](https://user-images.githubusercontent.com/58880992/175486856-c1a22324-d593-4434-9f7d-ca1a418f063a.png)
+![finalChatapp](https://user-images.githubusercontent.com/58880992/175486862-f9d2d3b3-723f-4146-9911-160eb56db05d.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Features:
+•	Login
+•	Register
+•	Last seen
+•	Recants chats List
+•	Online/Offline status
+•	Search User from Database 
