@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364846554384",
+    "project_id": "chatifay-795ef",
+    "storage_bucket": "chatifay-795ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364846554384:android:ba75c131f32ed1f42d5995",
+        "android_client_info": {
+          "package_name": "com.example.chatifay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364846554384-ujporra0k34spjqhv1fv9rn9fdki95fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaeOQVnRwR0sEFM3RRpOhGiBE79c0VME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364846554384-ujporra0k34spjqhv1fv9rn9fdki95fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
